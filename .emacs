@@ -11,6 +11,7 @@
 (global-linum-mode t)
 
 (when (fboundp 'windmove-default-keybindings)
+  (windmove-default-keybindings))
 
 (setq tab-always-indent 'complete)
 
