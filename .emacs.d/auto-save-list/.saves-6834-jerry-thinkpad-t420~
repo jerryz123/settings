@@ -1,0 +1,14 @@
+/ssh:jerryz123@palmer-farm001.dabbelt.com:/home/jerryz123/opmatmul/Makefile
+#_assh_bjerryz123@palmer-farm001.dabbelt.com_b_ahome_ajerryz123_aopmatmul_aMakefile#
+/ssh:jerryz123@palmer-farm001.dabbelt.com:/home/jerryz123/opmatmul/dgemm-avx.c
+#_assh_bjerryz123@palmer-farm001.dabbelt.com_b_ahome_ajerryz123_aopmatmul_adgemm-avx.c#
+/ssh:jerryz123@palmer-farm001.dabbelt.com:/home/jerryz123/opmatmul/benchmark.c
+#_assh_bjerryz123@palmer-farm001.dabbelt.com_b_ahome_ajerryz123_aopmatmul_abenchmark.c#
+/ssh:jerryz123@palmer-farm001.dabbelt.com:/home/jerryz123/opmatmul/report.txt
+#_assh_bjerryz123@palmer-farm001.dabbelt.com_b_ahome_ajerryz123_aopmatmul_areport.txt#
+/ssh:jerryz123@palmer-farm001.dabbelt.com:/home/jerryz123/opmatmul/benchmark-l1l2.c
+#_assh_bjerryz123@palmer-farm001.dabbelt.com_b_ahome_ajerryz123_aopmatmul_abenchmark-l1l2.c#
+/home/jerry/Documents/opmatmul/comparison.png
+/home/jerry/Documents/opmatmul/#comparison.png#
+/ssh:jerryz123@palmer-farm001.dabbelt.com:/home/jerryz123/opmatmul/dgemm-avxt.c
+#_assh_bjerryz123@palmer-farm001.dabbelt.com_b_ahome_ajerryz123_aopmatmul_adgemm-avxt.c#

@@ -1,0 +1,14 @@
+/ssh:jerryz123@palmer-farm001.dabbelt.com:/home/jerryz123/opmatmul/dgemm-avx.c
+#_assh_bjerryz123@palmer-farm001.dabbelt.com_b_ahome_ajerryz123_aopmatmul_adgemm-avx.c#
+/ssh:jerryz123@palmer-farm001.dabbelt.com:/home/jerryz123/opmatmul/benchmark.c
+#_assh_bjerryz123@palmer-farm001.dabbelt.com_b_ahome_ajerryz123_aopmatmul_abenchmark.c#
+/ssh:jerryz123@palmer-farm001.dabbelt.com:/home/jerryz123/opmatmul/Makefile
+#_assh_bjerryz123@palmer-farm001.dabbelt.com_b_ahome_ajerryz123_aopmatmul_aMakefile#
+/home/jerry/Documents/opmatmul/cs267_hw1/dgemm-avx.c
+/home/jerry/Documents/opmatmul/cs267_hw1/#dgemm-avx.c#
+/ssh:jerryz123@palmer-farm001.dabbelt.com:/home/jerryz123/opmatmul/test.c
+#_assh_bjerryz123@palmer-farm001.dabbelt.com_b_ahome_ajerryz123_aopmatmul_atest.c#
+/home/jerry/Documents/opmatmul/cs267_hw1/benchmark.c
+/home/jerry/Documents/opmatmul/cs267_hw1/#benchmark.c#
+/ssh:jerryz123@palmer-farm001.dabbelt.com:/home/jerryz123/opmatmul/dgemm-blas.c
+#_assh_bjerryz123@palmer-farm001.dabbelt.com_b_ahome_ajerryz123_aopmatmul_adgemm-blas.c#
